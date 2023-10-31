@@ -8,6 +8,24 @@ module.exports = {
       ],
     },
     {
+      title: 'Memberonboarding',
+      children: [
+        '/memberonboarding/',
+        '/memberonboarding/batchOnboarding',
+        '/memberonboarding/singleOnboarding',
+      ],
+    },
+    {
+        title: 'Memberoperations',
+        children: [
+          '/memberoperations/',
+          '/memberoperations/cashsuppRates',
+          '/memberoperations/membercontrAgeband',
+          '/memberoperations/memberOpenningbal',
+          '/memberoperations/memberSalaryupdate',
+      ],
+    },
+    {
       title: 'Administration',
       children: [
         '/administration/',
