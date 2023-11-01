@@ -11,3 +11,5 @@ dist
 basement_dist
 .idea
 docs/src/.vuepress/dist
+gh-pages-key
+gh-pages-key.pub
