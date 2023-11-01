@@ -4,7 +4,7 @@
 ### Loading Members Opening PMA into the System
 
 
-#### Step 1: locate the contribution and balance configurations dialog window 
+**Step 1: locate the contribution and balance configurations dialog window** 
 
 <img  alt="locate the contribution and balance configurations dialog window " width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image33.png">
 
@@ -19,9 +19,9 @@
 
 
 
-#### Step 2: Config the System to Allow importation of Subsequent Opening Balances
+**Step 2: Config the System to Allow importation of Subsequent Opening Balances**
 
-<img  alt="Config the System to Allow importation of Subsequent Opening Balances" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image34.png">
+<img  alt="Config the System to Allow importation of Subsequent Opening Balances" width="97%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image34.png">
 
 
 **Action**
@@ -34,9 +34,9 @@
 
 
 
-#### Step 3: Navigate to the Historical Contributions Menu
+**Step 3: Navigate to the Historical Contributions Menu**
 
-<img  alt="Navigate to the Historical Contributions Menu" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image35.png">
+<img  alt="Navigate to the Historical Contributions Menu" width="50%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image35.png">
 
 
 **Actions**
@@ -49,7 +49,7 @@
 
 
 
-#### Step 4: importing Historical Contributions using a template
+**Step 4: importing Historical Contributions using a template**
 
 <img  alt="Importing Historical Contributions using a template" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image36.png">
 

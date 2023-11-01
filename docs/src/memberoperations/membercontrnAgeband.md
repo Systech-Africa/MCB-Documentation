@@ -1,8 +1,8 @@
 ### Processing a Members Contribution Age Bands
 
-#### Step 1: Select a member's contribution age band
+**Step 1: Select a member's contribution age band**
 
-<img  alt="Select a member's contribution age band" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image16.png">
+<img  alt="Select a member's contribution age band" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image16.png">
 
 **Actions**
 
@@ -12,9 +12,9 @@
 
 
 
-#### Step 2: Process contribution age band
+**Step 2: Process contribution age band**
 
-<img  alt="Process contribution age band" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image17.png">
+<img  alt="Process contribution age band" width="99%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image17.png">
 
 **Actions**
 
@@ -24,6 +24,6 @@
 
 
 
-#### Step 3: Confirm the date of processing
+**Step 3: Confirm the date of processing**
 
 <img  alt="Confirm the date of processing" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image18.png">
