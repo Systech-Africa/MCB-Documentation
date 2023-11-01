@@ -16,7 +16,7 @@
 
 **Action**
 
-1.  Click on the **"Members"** drop-down menu 
+1.  Click on the **"Members"** drop-down menu
 
 
 
