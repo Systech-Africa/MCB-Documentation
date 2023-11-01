@@ -55,7 +55,7 @@
 
 **Action**
 
-1.  Click "**AVC_AVCER/Supplementary Config**" tab
+1.  Click "**AVC_AVCER/Supplementary Config**" tab 
 
 2.  Click "**New AVC_AVCER/Supplementary Config**" button to open a dialog box
 

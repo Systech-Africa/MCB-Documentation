@@ -1,5 +1,3 @@
-
-
 ### Onboarding a Single Member to the Members Register
 
 #### Step 1: Navigate to the New Member Registration Form

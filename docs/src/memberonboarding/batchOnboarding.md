@@ -1,8 +1,10 @@
-### Member batch onboarding process
+### Onboaring Members in batch to the member register
+
 
 #### Step1: Navigate to FundMaster Landing Page:
 
-<img  alt="Navigate to FundMaster Landing Page" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image1.png">
+
+<img  alt="Navigate to FundMaster Landing Page" width="97%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image1.png">
 
 **Action**
 
@@ -12,7 +14,10 @@
 
 #### Step 2: Locate the Members menu:
 
+
 <img  alt="Locate the Members menu" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image2.png">
+
+
 
 **Action**
 
@@ -22,7 +27,8 @@
 
 #### Step 3: Navigate to Upload the Member Batch
 
-<img  alt="Navigate to Upload the Member Batch" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image3.png">
+
+<img  alt="Navigate to Upload the Member Batch" width="65%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image3.png">
 
 **Actions:**
 
@@ -34,7 +40,8 @@
 
 #### Step 4: Upload and Confirm Batch Members
 
-<img  alt="Batch Contributions Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image4.png">
+
+<img  alt="Batch Contributions Register" width="60%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image4.png">
 
 **Actions**
 
@@ -53,6 +60,7 @@
 
 #### Step 5: Navigate to the Members Batch Register for Approval Process:
 
+
 <img  alt="Navigate to the Members Batch Register for Approval Process" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image5.png">
 
 **Action**
@@ -64,6 +72,7 @@
 
 
 #### Step 6: Authorize the Newly Onboarded Members:
+
 
 <img  alt="Authorize the Newly Onboarded Members" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image6.png">
 
@@ -81,6 +90,7 @@
 
 #### Step 7: View the Newly Uploaded Members:
 
+
 <img  alt="View the Newly Uploaded Members" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image7.png">
 
 **Action**
@@ -89,7 +99,8 @@
 
 
 
-#### Step 8: View Listed Employers on the Sponsor Register: 
+#### Step 8: View Listed Employers on the Sponsor Register:
+
 
 <img  alt="View Listed Employers on the Sponsor Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image8.png">
 
@@ -101,6 +112,7 @@
 
 #### Step 9: View all the Members Under an Employer:
 
+
 <img  alt="Batch Contributions Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image9.png">
 
 **Actions**
@@ -111,9 +123,10 @@
 
 #### Step 10: Navigate to View the Details of a Selected Member:
 
+
 <img  alt="Navigate to View the Details of a Selected Member" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image10.png">
 
-**Actions**
+**Actions**  
 
 1.  Click to select an individual member from the list
 
@@ -129,3 +142,9 @@
 
 
 <img  alt="View the Details of a Selected Member" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image11.png">
+
+
+
+<img  alt="View the Details of a Selected Member" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image11.png">
+
+
