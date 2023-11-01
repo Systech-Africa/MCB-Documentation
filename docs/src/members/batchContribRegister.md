@@ -7,7 +7,7 @@ After batch contributions are successfully uploaded into the system, they are co
 
 **Action**
 
--   Click **label 1** button to create a new batch.
+-   Click **label 1** button to create a new batch. 
 
 -   Click **label 2** button to confirms various aspects of a selected batch e.g., presence of new members.
 
