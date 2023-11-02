@@ -30,6 +30,13 @@ module.exports = {
         '/contributionbilling/addSinglecont',
       ],
     },
+    {
+      title: 'Claim Processing',
+      children: [
+        '/claimprocessing/initiateClaimProcess',
+        '/claimprocessing/generateMemberExitform',
+      ],
+    },
 
   ],
 };
