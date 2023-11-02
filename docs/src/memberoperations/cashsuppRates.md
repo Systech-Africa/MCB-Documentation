@@ -2,7 +2,7 @@
 
 ### Updating Cash Supplementary Rates in batch
 
-#### Step 1: Navigate to AVC_AVCER/Supplementary Configs window
+**Step 1: Navigate to AVC_AVCER/Supplementary Configs window**
 
 <img  alt="Navigate to AVC_AVCER/Supplementary Configs window" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image25.png">
 
@@ -16,7 +16,7 @@
 
 
 
-#### Step 2: Upload AVC_AVCER/Supplementary Configs records
+**Step 2: Upload AVC_AVCER/Supplementary Configs records**
 
 <img  alt="Upload AVC_AVCER/Supplementary Configs records" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image26.png">
 
@@ -35,7 +35,7 @@
 
 ### Update Cash Supplementary Rates for a Single Member
 
-#### Step 1: Navigate to AVC_AVCER/Supplementary Configs window
+**Step 1: Navigate to AVC_AVCER/Supplementary Configs window**
 
 <img  alt="Navigate to AVC_AVCER/Supplementary Configs window" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image27.png">
 
@@ -49,7 +49,7 @@
 
 
 
-#### Step 2: Open AVC_AVCER/Supplementary Config dialog box
+**Step 2: Open AVC_AVCER/Supplementary Config dialog box**
 
 <img  alt="Open AVC_AVCER/Supplementary Config dialog box" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image28.png">
 
@@ -61,9 +61,9 @@
 
 
 
-#### Step 3: Adding a New AVC_AVCER/Supplementary Config
+**Step 3: Adding a New AVC_AVCER/Supplementary Config**
 
-<img  alt="Adding a New AVC_AVCER/Supplementary Config" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image29.png">
+<img  alt="Adding a New AVC_AVCER/Supplementary Config" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image29.png">
 
 **Action**
 
@@ -75,9 +75,9 @@
 
 ### Approving Cash Supplementary Rates -- in Single and Batch 
 
-#### Step 1: Navigate to the Salaries Approval Register Menu
+**Step 1: Navigate to the Salaries Approval Register Menu**
 
-<img  alt="Navigate to the Salaries Approval Register Menu" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image30.png">
+<img  alt="Navigate to the Salaries Approval Register Menu" width="50%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image30.png">
 
 **Action**
 
@@ -89,7 +89,7 @@
 
 
 
-#### Step 1: Approve a single members Supplementary Rates
+**Step 1: Approve a single members Supplementary Rates**
 
 <img  alt="Approve a single members Supplementary Rates" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image32.png">
 
@@ -103,7 +103,7 @@
 
 
 
-#### Step 2: Approve Members Supplementary Rates in Batches
+**Step 2: Approve Members Supplementary Rates in Batches**
 
 <img  alt="Approve Members Supplementary Rates in Batches" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image32.png">
 

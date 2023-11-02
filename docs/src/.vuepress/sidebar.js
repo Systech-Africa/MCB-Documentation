@@ -10,8 +10,8 @@ module.exports = {
     {
       title: 'Member Onboarding',
       children: [
-        '/memberonboarding/singleOnboarding',
         '/memberonboarding/batchOnboarding',
+        '/memberonboarding/singleOnboarding',
       ],
     },
     {
