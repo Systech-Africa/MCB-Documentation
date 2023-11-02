@@ -1,10 +1,8 @@
-
-
 ### Adding Single Contribution
 
-#### Step 1: Navigate to the Members Single Contributions Form
+**Step 1: Navigate to the Members Single Contributions Form**
 
-<img  alt="Navigate to the Members Single Contributions Form" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image14.png">
+<img  alt="Navigate to the Members Single Contributions Form" width="99%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image14.png">
 
 
 **Action**
@@ -18,9 +16,10 @@
 4.  Click "**New Single Contribution**" to load the contributions dialog form
 
 
-#### Step 2: Navigate to the Members Single Contributions Form
 
-<img  alt="Navigate to the Members Single Contributions Form" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image15.png">
+**Step 2: Navigate to the Members Single Contributions Form**
+
+<img  alt="Navigate to the Members Single Contributions Form" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image15.png">
 
 
 **Action**
@@ -31,9 +30,9 @@
 
 
 
-#### Step 3: Authorizing the Single Contribution
+**Step 3: Authorizing the Single Contribution**
 
-<img  alt="Authorizing the Single Contribution" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image16.png">
+<img  alt="Authorizing the Single Contribution" width="99%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image16.png">
 
 
 **Action**
@@ -48,9 +47,9 @@
 
 
 
-#### Step 4: Authorizing the Single Contribution
+**Step 4: Authorizing the Single Contribution**
 
-<img  alt="Authorizing the Single Contribution" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image17.png">
+<img  alt="Authorizing the Single Contribution" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image17.png">
 
 
 **Action**
@@ -58,10 +57,11 @@
 1.  Click on "**Post**" button
 
 
-**Note**: On approval the contribution will be posted to the member account.
+:memo:**Note**: On approval the contribution will be posted to the member account.
 
 
-#### Step 5: For Contribution Reversal
+
+**Step 5: For Contribution Reversal**
 
 <img  alt="For Contribution Reversal" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image18.png">
 

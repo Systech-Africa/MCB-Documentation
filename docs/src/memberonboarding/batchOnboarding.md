@@ -6,9 +6,11 @@
 
 <img  alt="Navigate to FundMaster Landing Page" width="97%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image1.png">
 
+
 **Action**
 
 1.  Click the Members Register hot link
+
 
 
 **Step 2: Locate the Members menu:**
@@ -24,7 +26,9 @@
 
 **Step 3: Navigate to Upload the Member Batch**
 
+
 <img  alt="Navigate to Upload the Member Batch" width="50%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image3.png">
+
 
 **Actions:**
 
@@ -38,6 +42,7 @@
 
 
 <img  alt="Batch Contributions Register" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image4.png">
+
 
 **Actions**
 
@@ -53,11 +58,11 @@
 
 
 
-
 **Step 5: Navigate to the Members Batch Register for Approval Process**
 
 
 <img  alt="Navigate to the Members Batch Register for Approval Process" width="50%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image5.png">
+
 
 **Action**
 
@@ -71,6 +76,7 @@
 
 
 <img  alt="Authorize the Newly Onboarded Members" width="97%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image6.png">
+
 
 **Actions**
 
@@ -89,6 +95,7 @@
 
 <img  alt="View the Newly Uploaded Members" width="50%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image7.png">
 
+
 **Action**
 
 1.  Click on "Existing Members"
@@ -99,6 +106,7 @@
 
 
 <img  alt="View Listed Employers on the Sponsor Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image8.png">
+
 
 **Actions**
 
@@ -111,6 +119,7 @@
 
 <img  alt="Batch Contributions Register" width="100%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image9.png">
 
+
 **Actions**
 
 1.  Click on the "**Members Operations"** drop-down and select an action such as creating a new member
@@ -121,6 +130,7 @@
 
 
 <img  alt="Navigate to View the Details of a Selected Member" width="100%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image10.png">
+
 
 **Actions**  
 
@@ -137,6 +147,3 @@
 
 
 <img  alt="View the Details of a Selected Member" width="120%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image11.png">
-
-
-

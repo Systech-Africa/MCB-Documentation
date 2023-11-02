@@ -16,13 +16,9 @@ Before preparing the contribution bill for any month, confirm that the following
 ### Billing process for the month
 
 
-#### Step 1: Navigate to the contribution billing window 
+**Step 1: Navigate to the contribution billing window**
 
-
-
-
-
-<img  alt="Navigate to the contribution billing window" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image1.png">
+<img  alt="Navigate to the contribution billing window" width="45%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image1.png">
 
 **Actions**
 
@@ -34,26 +30,28 @@ Before preparing the contribution bill for any month, confirm that the following
 
 
 
-#### Step 2: See all generated bills categorized by employer
+**Step 2: See all generated bills categorized by employer**
 
-<img  alt="See all generated bills categorized by employer" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image2.png">
+<img  alt="See all generated bills categorized by employer" width="99%" src="../.vuepress/public/img/media12/image2.png">
 
 
 
-#### Step 3: Navigate to the new bill details form
+**Step 3: Navigate to the new bill details form**
 
-<img  alt="Navigate to the new bill details form" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image3.png">
+<img  alt="Navigate to the new bill details form" width="80%" height="auto"  src="../.vuepress/public/img/media12/image3.png">
+
 
 **Actions**
 
 1.  Click on **"Bill Operations"** to load a drop-down menu
 
-2.  Click **"Generate Contribution Bills"** to open the billing details
-    form
+2.  Click **"Generate Contribution Bills"** to open the billing details form
 
-#### Step 4: Process a new bill
 
-<img  alt="Process a new bill" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image4.png">
+**Step 4: Process a new bill**
+
+<img  alt="Process a new bill" width="95%" src="../.vuepress/public/img/media12/image4.png">
+
 
 **Actions**
 
@@ -62,21 +60,22 @@ Before preparing the contribution bill for any month, confirm that the following
 2.  Click on **"Run Contributions Billing"**
 
 
-**Note:** Specify if the bill generation is for all the schemes (Bills for all Schemes?) and if the bill is for all sponsors (Bill for all Sponsors? -- If NO select the Sponsor that you wish to generate the bill for)
+**Note:** Specify if the bill generation is for all the schemes (Bills for all Schemes?) and if the bill is for all sponsors (Bill for all Sponsors? If NO select the Sponsor that you wish to generate the bill for)
 
 
 In case of any exceptions, the process will fail, and the exceptions will be listed in the window as shown below:
 
-<img  alt="Run Contributions Billing exception" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image5.png">
+<img  alt="Run Contributions Billing exception" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image5.png">
 
 
 **Note:** Correct the listed Exceptions accordingly and rerun until the process is successful for the given month.
 
 
 
-#### Step 5: Authorize the newly created contribution bill 
+**Step 5: Authorize the newly created contribution bill**
 
-<img  alt="Authorize the newly created contribution bill " width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image6.png">
+<img  alt="Authorize the newly created contribution bill " width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image6.png">
+
 
 **Action**
 
@@ -89,9 +88,12 @@ In case of any exceptions, the process will fail, and the exceptions will be lis
 4.  Click "**Certify** and **Approve**" respectively to authorize the bill
 
 
-#### Step 6: Validate the authorized bill 
 
-<img  alt="Validate the authorized bill" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image7.png">
+**Step 6: Validate the authorized bill**
+
+
+<img  alt="Validate the authorized bill" width="60%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image7.png">
+
 
 **Action**
 
@@ -107,9 +109,11 @@ In case of any exceptions, the process will fail, and the exceptions will be lis
 
 
 
-#### Step 7: Download Contribution Bills 
+**Step 7: Download Contribution Bills**
 
-<img  alt="Download Contribution Bills" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image8.png">
+
+<img  alt="Download Contribution Bills" width="60%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image8.png">
+
 
 **Action**
 
@@ -121,9 +125,10 @@ In case of any exceptions, the process will fail, and the exceptions will be lis
 
 
 
-#### Step 8: Convert the Bill to Contribution Batches 
+**Step 8: Convert the Bill to Contribution Batches**
 
-<img  alt="Convert the Bill to Contribution Batches " width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image9.png">
+<img  alt="Convert the Bill to Contribution Batches " width="99%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image9.png">
+
 
 **Action**
 
@@ -135,9 +140,10 @@ In case of any exceptions, the process will fail, and the exceptions will be lis
 
 
 
-#### Step 9: Navigate to Previous Batches 
+**Step 9: Navigate to Previous Batches**
 
-<img  alt="Navigate to Previous Batches" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image10.png">
+<img  alt="Navigate to Previous Batches" width="98%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image10.png">
+
 
 **Action**
 
@@ -148,9 +154,11 @@ In case of any exceptions, the process will fail, and the exceptions will be lis
 
 
 
-#### Step 10: Confirm Batch exception before posting to members
+**Step 10: Confirm Batch exception before posting to members**
 
-<img  alt="Confirm Batch exception before posting to members" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image11.png">
+
+<img  alt="Confirm Batch exception before posting to members" width="99%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image11.png">
+
 
 **Action**
 
@@ -164,9 +172,9 @@ In case of any exceptions, the process will fail, and the exceptions will be lis
 
 
 
-#### Step 11: Authorize batch before posting
+**Step 11: Authorize batch before posting**
 
-<img  alt="Authorize batch before posting" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image12.png">
+<img  alt="Authorize batch before posting" width="60%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image12.png">
 
 **Action**
 
@@ -178,9 +186,10 @@ In case of any exceptions, the process will fail, and the exceptions will be lis
 
 
 
-#### Step 12: Post the Contributions to Member Accounts 
+**Step 12: Post the Contributions to Member Accounts**
 
-<img  alt="NPost the Contributions to Member Accounts" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image13.png">
+<img  alt="NPost the Contributions to Member Accounts" width="99%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image13.png">
+
 
 **Action**
 
