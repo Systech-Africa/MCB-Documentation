@@ -24,7 +24,7 @@ jobs:
       - name: Build site
         run: yarn build
 
-      - name: Add CNAME file
+      - name: Add CNAME file 
         run: echo 'kudos.userguide.systechafrica.com' > ./docs/src/.vuepress/dist/CNAME
 
       - name: Deploy to GitHub Pages
