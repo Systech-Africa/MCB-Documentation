@@ -24,8 +24,8 @@ jobs:
       - name: Build site
         run: yarn build
 
-#      - name: Add CNAME file
-#        run: echo 'kudos.userguide.systechafrica.com' > ./docs/src/.vuepress/dist/CNAME
+      - name: Add CNAME file
+        run: echo 'kudos.userguide.systechafrica.com' > ./docs/src/.vuepress/dist/CNAME
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
