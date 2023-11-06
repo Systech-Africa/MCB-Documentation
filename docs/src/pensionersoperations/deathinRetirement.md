@@ -1,4 +1,4 @@
-## Processing Death in Retirement
+### Processing Death in Retirement
 
 1.  From the payroll Register, select pensioner to process, click on **"Movement Processing"** then on **"Death in Retirement Processing"**
 

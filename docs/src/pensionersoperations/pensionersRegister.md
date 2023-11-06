@@ -1,4 +1,4 @@
-## Pensioners Register**
+### Pensioners Register
 
 From the Landing Menu, click on **"Pensioner Register"**
 

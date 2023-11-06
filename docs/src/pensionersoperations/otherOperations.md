@@ -1,4 +1,4 @@
-## Other Pensions Operations**
+### Other Pensions Operations
 
 
 ### Importing Pensioner EDF
@@ -82,12 +82,12 @@ c)  On the window that opens input the details accordingly and click process Pen
 -   **Payroll Arrears End Date --** Month which back payments should end
 
 
-<img  alt="Oinput the details " width="95%" src="../.vuepress/public/img/media14/image23.png">
+<img  alt="Oinput the details " width="90%" src="../.vuepress/public/img/media14/image23.png">
 
 
 d)  Proceed to certify and approve the revision
 
-<img  alt="certify and approve the revision" width="95%" src="../.vuepress/public/img/media14/image24.png">
+<img  alt="certify and approve the revision" width="99%" src="../.vuepress/public/img/media14/image24.png">
 
 
 
@@ -101,12 +101,12 @@ d)  Proceed to certify and approve the revision
 
 -   Then Click on Operations, then other options then on update month to pay lumpsum
 
-<img  alt="Change Month to Pay Lumpsum" width="95%" src="../.vuepress/public/img/media14/image25.png">
+<img  alt="Change Month to Pay Lumpsum" width="60%" src="../.vuepress/public/img/media14/image25.png">
 
 
 Input the new month and year on the window that opens and update
 
-<img  alt="Input the new month and year " width="95%" src="../.vuepress/public/img/media14/image26.png">
+<img  alt="Input the new month and year " width="80%" src="../.vuepress/public/img/media14/image26.png">
 
 
 
@@ -116,7 +116,7 @@ To Override pensioner EDF,
 
 -   Click on the details of a selected pensioner and on the option "Override previously submitted EDF?" select YES and save. The pensioner will now sit on the approval register.
 
-<img  alt=" Override pensioner EDF" width="95%" src="../.vuepress/public/img/media14/image27.png">
+<img  alt=" Override pensioner EDF" width="90%" src="../.vuepress/public/img/media14/image27.png">
 
 
 -   For the pensioner to use an EDF just upload it and the system will automatically pic it during the payroll run.

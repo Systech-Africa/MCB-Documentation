@@ -1,9 +1,7 @@
-## Period end Processes
-
-###  Include Running of PMA And Accrued Pension**
+### Period End Processes
 
 
-**Running of PMA**
+### Running of PMA
 
 -   From the Main Menu click on **Members Register**.
 
@@ -25,7 +23,7 @@
 
 
 
-**Accrued Pension**
+### Accrued Pension
 
 -   From the Main Menu click on **Members Register**.
 
@@ -50,7 +48,7 @@ Once the two processes have completed successfully, use these additional steps t
 
 -   Click on **Member operations** then on **Export Data (Members Fund Value As At, Members Fund Value As At (Combined With Transfers), Members Defined Benefits Accrued Pension)**
 
-<img  alt=" Export Data" width="95%" src="../.vuepress/public/img/media14/image38.png">
+<img  alt=" Export Data" width="99%" src="../.vuepress/public/img/media14/image38.png">
 
 
 
