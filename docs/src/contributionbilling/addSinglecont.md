@@ -49,7 +49,7 @@
 
 **Step 4: Authorizing the Single Contribution**
 
-<img  alt="Authorizing the Single Contribution" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image17.png">
+<img  alt="Authorizing the Single Contribution" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media12/image17.png">
 
 
 **Action**
