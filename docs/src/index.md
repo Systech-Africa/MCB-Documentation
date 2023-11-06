@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: "/img/logo/fundmaster-hero-image.png"
-tagline: A knowledge base - This central repository provides relevant information on how to run various end-to-end processes in FundMaster and its peripheral products
+tagline: Step by Step user guide on how to run core processes in Fundmaster Xe
 actionText: Get Started →
 actionLink: /introduction/
 

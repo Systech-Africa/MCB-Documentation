@@ -1,8 +1,8 @@
 ---
-title: FundMaster Xe 'how to' tutorials
+title: FundMaster Xe User Guide
 ---
 
-# FundMaster Xe 'how to' tutorials
+# FundMaster User Guide
 
 Welcome to the FundMaster Xe 'how to' tutorials! Check out our quick video tutorials below:
 
