@@ -37,6 +37,17 @@ module.exports = {
         '/claimprocessing/generateMemberExitform',
       ],
     },
+    {
+      title: 'Pensioners Operations',
+      children: [
+        '/pensionersoperations/pensionersRegister',
+        '/pensionersoperations/deathinRetirement',
+        '/pensionersoperations/pensionersSuspension',
+        '/pensionersoperations/otherOperations',
+        '/pensionersoperations/runningPayroll',
+        '/pensionersoperations/periodEndprocesses',
+      ],
+    },
 
   ],
 };
