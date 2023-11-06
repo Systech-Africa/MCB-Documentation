@@ -1,4 +1,4 @@
-## Claim Initialization and Processing
+### Claim Initialization and Processing
 
 Before Claim Initialization for any member confirm if the member bank details are provided. Here are the steps to follow:
 

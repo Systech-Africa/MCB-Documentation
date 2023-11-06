@@ -4,7 +4,7 @@
 **Step 1: Navigate to the New Member Registration Form**
 
 
-<img  alt="Navigate to the New Member Registration Form" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image12.png">
+<img  alt="Navigate to the New Member Registration Form" width="95%" src="../.vuepress/public/img/media11/image12.png">
 
 
 **Actions**
@@ -20,7 +20,7 @@
 **Step 2: Fill in the Details to Register a New Member:**
 
 
-<img  alt="Fill in the Details to Register a New Member" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image13.png">
+<img  alt="Fill in the Details to Register a New Member" width="95%" src="../.vuepress/public/img/media11/image13.png">
 
 
 **Actions**
@@ -38,7 +38,7 @@
 **Step 3: Navigate to the Members Approval Register:**
 
 
-<img  alt="Navigate to the Members Approval Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image14.png">
+<img  alt="Navigate to the Members Approval Register" width="95%" src="../.vuepress/public/img/media11/image14.png">
 
 
 **Actions**
@@ -53,7 +53,7 @@
 **Step 4: Approval the New Membership:**
 
 
-<img  alt="Approval the New Membership" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media11/image15.png">
+<img  alt="Approval the New Membership" width="95%" src="../.vuepress/public/img/media11/image15.png">
 
 
 **Actions**
