@@ -19,11 +19,11 @@ Located on the lowermost side of the menu bar are more controls that enable othe
 | 2(e). |   Logout            | Click to terminate all the running processes and close the current profile account ready to log in as a new user.                                                                |
  
  
- ## Product Setup
+ ### Product Setup
 
 Clicking the **Product Setup** link labelled 2(d), will open a window displaying a list of all fund products in the system under the product tab and a list of product categories as shown in the next screenshot.
 
-## Products
+### Products
 
 Clicking the **Product** tab will open a window displaying a list of all fund products in the system. From this window, the details of each product can be viewed, new products added, and the product sequence seen as shown below:
 
@@ -40,7 +40,7 @@ Clicking the **Product** tab will open a window displaying a list of all fund pr
 - Click **label 3** button to see the product sequence.
 
 
-## Product Categories
+### Product Categories
 
 Clicking the **Product Category** tab will open a window displaying a list of all fund product categories. From this window, the details of each product category can be viewed, new product category added and removed from the
 system as shown below:
