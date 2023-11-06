@@ -1,4 +1,4 @@
-## Login Process
+### Login Process
 
 To access FundMaster on your device, launch your preferred internet browser and input the web Internet Protocol address provided by your system administrator as shown below:
 
@@ -25,7 +25,7 @@ After inputting the access IP address, a user is directed to the login page wher
 - The system is set to allow a user only three attempts at log in after which the account is locked. The locked account can only be reactivated by the system administrator.
 
 
-## How to video
+### How to video
 
 The following video demonstrates how to successfully login to FundMaster from your browser:
 
@@ -35,7 +35,7 @@ The following video demonstrates how to successfully login to FundMaster from yo
 
 
 
-## Landing Page
+### Landing Page
 
 This is the dashboard (with the main menu and other controls) seen on a user’s screen when one successfully logs in to FundMaster. See the screenshot below:
 

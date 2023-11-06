@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: "/img/logo/fundmaster-hero-image.png"
-tagline: Step by Step user guide on how to run core processes in Fundmaster Xe
+tagline: Step by Step user guide on how to run core processes in FundMaster Xe
 actionText: Get Started →
 actionLink: /introduction/
 
