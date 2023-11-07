@@ -48,6 +48,13 @@ module.exports = {
         '/pensionersoperations/periodEndprocesses',
       ],
     },
+    {
+      title: 'SMTP Setup Process',
+      children: [
+        '/smpt/smptSetup',
+        '/smpt/creatingNotification',
+      ],
+    },
 
   ],
 };
