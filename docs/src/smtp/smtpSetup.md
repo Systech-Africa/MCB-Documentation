@@ -6,6 +6,8 @@ Step 1: Access Administrative Panel
 
   <img  alt="Administrative Panel" width="99%" src="../.vuepress/public/img/media15/image1.jpg">
 
+See notificatiobs menu on the right side panel below:
+
  <img  alt="Show Benefit Calculation" width="99%" src="../.vuepress/public/img/media15/image2.jpg">
 
 Step 2: Access the Email Setup window
@@ -14,8 +16,9 @@ On the left pane, access **Email Setup** under **Emails** menu
 
  <img  alt="Emails menu" width="99%" src="../.vuepress/public/img/media15/image3.jpg">
 
+See email setup window below:
 
- <img  alt="Email Setup" width="99%" src="../.vuepress/public/img/media15/image4.jpg">
+ <img  alt="Email Setup" width="80%" src="../.vuepress/public/img/media15/image4.jpg">
 
 
 
@@ -25,7 +28,7 @@ On the left pane, access **Email Setup** under **Emails** menu
 
 -   To Edit, Click on **Details**
 
-  <img  alt="New SMTP Setup" width="99%" src="../.vuepress/public/img/media15/image5.jpg">
+  <img  alt="New SMTP Setup" width="80%" src="../.vuepress/public/img/media15/image5.jpg">
 
 
 ***Legend***
@@ -58,7 +61,7 @@ On the left pane, access **Email Setup** under **Emails** menu
 
 Test SMTP by clicking on **Test Set Up**
 
- <img  alt="Test Set Up" width="99%" src="../.vuepress/public/img/media15/image6.jpg">
+ <img  alt="Test Set Up" width="80%" src="../.vuepress/public/img/media15/image6.jpg">
 
 
 

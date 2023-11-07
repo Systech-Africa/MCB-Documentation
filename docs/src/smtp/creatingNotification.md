@@ -1,10 +1,11 @@
 
-### CREATING NOTIFICATION TEMPLATE
+### Creating Notification Template
 
 Access **Notification Templates** under **Notifications >> Notifications Templates**
 
- <img  alt="Notifications" width="99%" src="../.vuepress/public/img/media15/image6.jpg">
+ <img  alt="Notifications" width="70%" src="../.vuepress/public/img/media15/image6.jpg">
 
+See notification templates in the following window:
 
  <img  alt="Notifications Templates" width="99%" src="../.vuepress/public/img/media15/image8.jpg">
 
