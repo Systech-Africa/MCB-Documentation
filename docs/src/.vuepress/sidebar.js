@@ -49,10 +49,10 @@ module.exports = {
       ],
     },
     {
-      title: 'SMTP Setup Process',
+      title: 'SMTP Setup',
       children: [
-        '/smpt/smptSetup',
-        '/smpt/creatingNotification',
+        '/smtp/smptSetup',
+        '/smtp/creatingNotification',
       ],
     },
 
