@@ -51,7 +51,7 @@ module.exports = {
     {
       title: 'SMTP Setup',
       children: [
-        '/smtp/smptSetup',
+        '/smtp/smtpSetup',
         '/smtp/creatingNotification',
       ],
     },
